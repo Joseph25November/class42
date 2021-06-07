@@ -1,10 +1,24 @@
-Sword Fighting Training
+Mouse VS The Cat
 
 - Characters (PC and NPC) 
+- PC
+- mouse,cat
+-------------
 - Story 
-- Goals 
+- The mouse stole the milk from the cat to make cheese and the cat is trying to get it back,the cat is also getting revenge on the mouse.
+------------- 
+- Goals
+- Attack the other player 5 times to get the win and protect yourself from running away from the other player
+-------------
 - Rules 
-- Balance 
-- Adaptivity 
-- Chance vs Skill 
+- Use the keys "WASD" if your the mouse and use the "ARROW KEYS" if your the cat to move around and use the key "F" if your the mouse and "C" if your the cat to attack,you have to attack the player 5 time to kill them,the players can not go out of the battle field (canvas),once you hit the other person both the players return to they're spawn
+------------- 
+- Balance | True
+------------- 
+- Adaptivity | False (the lower your HP the slower you move)
+-------------
+- Chance vs Skill
+- moving without getting attacked, attacking before he other player moves
+------------- 
 - Feedback
+- the HP reduces, when you win you get rewarded with the cheese/milk,sound effects
